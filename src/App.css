@@ -1,0 +1,14 @@
+body {
+  background-image: linear-gradient(to bottom right, rgb(249, 246, 246), rgba(0, 234, 255, 0.882));
+  background-attachment: fixed;
+}
+
+.card-titles {
+  text-align: center;
+}
+
+.style-buttons {
+  display: flex;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
